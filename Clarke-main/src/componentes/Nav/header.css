@@ -1,0 +1,29 @@
+header {
+  top: 0;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+header div {
+  width: auto;
+}
+
+#nav {
+  display: flex;
+}
+
+#nav div {
+  width: auto;
+}
+
+.nav-item a {
+  color: white;
+}
+
+.nav-item a:hover {
+  color: white;
+}/*# sourceMappingURL=header.css.map */
